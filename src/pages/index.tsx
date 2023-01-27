@@ -46,13 +46,13 @@ aprendí.</p>
           
         </div>
         <div className="relative bg-gradient-to-b from-teal-500 to-white rounded-full w-80 h-80 mt-20 mx-auto md:h-96 md:w-96">
-          <Image src={deved} fill={true} alt="profile-pic" className="object-cover rounded-full"/>
+          
         </div>
       </section>
      
       <section>
         <div>
-          <h3 className="text-3xl py-1 ">
+          <h3 className="text-3xl py-2 ">
             Servicios que ofrezco
           </h3>
        
