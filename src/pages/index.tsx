@@ -35,8 +35,8 @@ empresa en donde pueda crecer como desarrollador y ayudar a los demás a crecer 
 aprendí.</p>
         </div>
         <div className="text-5xl flex justify-center gap-16 py-3 text-gray-600">
-         <a target="_blank" href="https://www.linkedin.com/in/ryu-mart%C3%ADnez-175755138/"> <AiFillLinkedin/></a> 
-         <a target="_blank" href="https://github.com/ryumartinez"><AiFillGithub/></a>
+         <a target="_blank" rel="noreferrer" href="https://www.linkedin.com/in/ryu-mart%C3%ADnez-175755138/"> <AiFillLinkedin/></a> 
+         <a target="_blank" rel="noreferrer" href="https://github.com/ryumartinez"><AiFillGithub/></a>
           
         </div>
         <div className="relative bg-gradient-to-b from-teal-500 to-white rounded-full w-80 h-80 mt-20 mx-auto md:h-96 md:w-96">
