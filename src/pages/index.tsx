@@ -70,7 +70,7 @@ const Home: NextPage = () => {
               <AiFillGithub />
             </a>
           </div>
-          <div className="relative mx-auto mt-20 h-80 w-80 rounded-full bg-gradient-to-b from-teal-500 to-white md:h-96 md:w-96"></div>
+          <div className="hidden relative mx-auto mt-20 h-80 w-80 rounded-full bg-gradient-to-b from-teal-500 to-white md:h-96 md:w-96"></div>
         </section>
 
         <section>
