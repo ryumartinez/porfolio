@@ -31,7 +31,7 @@ const Home: NextPage = () => {
               <li>
                 <a
                   className="ml-8 rounded-md bg-gradient-to-r from-cyan-500 to-teal-500 px-4 py-2 text-white "
-                  href="https://drive.google.com/uc?export=download&id=1C3MaTaBczf4hQLWuxsBzf-i7H9AFv6dd"
+                  href="https://drive.google.com/uc?export=download&id=1mH7jfDhqBoROLDcDoPzfuA9rPevgLN2R"
                 >
                   Descargar CV
                 </a>
@@ -131,7 +131,15 @@ const Home: NextPage = () => {
         </section>
         <section>
           <h3 className="py-1 text-3xl">Portfolio</h3>
-
+          <h4 className="pt-8 text-2xl">House Of Dev</h4>
+          <p className="text-md py-5 leading-8 text-gray-800">Este es el proyecto mas grande en el que trabajé hasta ahora. Armé el frontend utilizando React 
+            y el backend con Express. El proyecto fue realizado haciendo sprints semanales en Trello.
+          </p>
+          <p className="text-md py-5 leading-8 text-gray-800">
+            Consiste en la página web de una inmobiliaria. Se puede acceder como usuario y como administrador. 
+            Siendo administrador se pueden crear y eliminar propiedades. Así como también ver a todos los usuarios registrados.
+            Como usuario se pueden agregar propiedades a una lista de favoritos.
+          </p>
           <div className="flex flex-col gap-10 py-10 lg:flex-row lg:flex-wrap">
             <div className="flex-1 basis-1/3 ">
               <a href="https://houseofdev.netlify.app/#/home">
