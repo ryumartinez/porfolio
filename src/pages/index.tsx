@@ -28,7 +28,7 @@ const Home: NextPage = () => {
             
             <h1 className="font-burtons text-xl">DEVELOPEDBYRYU</h1>
             <ul className="flex items-center ">
-              <li>
+              <li className="hidden">
                 <a
                   className="ml-8 rounded-md bg-gradient-to-r from-cyan-500 to-teal-500 px-4 py-2 text-white "
                   href="https://drive.google.com/uc?export=download&id=1mH7jfDhqBoROLDcDoPzfuA9rPevgLN2R"
@@ -78,18 +78,19 @@ const Home: NextPage = () => {
             <h3 className="py-2 text-3xl ">Servicios que ofrezco</h3>
 
             <p className="text-md py-5 leading-8 text-gray-800">
-              Tengo conocimientos de{" "}
-              <span className="text-teal-500">Javascript, CSS y HTML</span> y me
-              gusta trabajar con las librerías
-              <span className="text-teal-500"> Express, Tailwind y React</span>.
-              Tambien soy un gran fan de{" "}
-              <span className="text-teal-500">Typescript.</span>
+              Tengo conocimientos de
+              <span className="text-teal-500">Javascript, CSS, HTML, PHP y C#</span>. Herramientas 
+              con las cuales armo aplicaciones web frontend, backend y fullstack. 
             </p>
             <p className="text-md py-5 leading-8 text-gray-800">
-              Manejo bases de datos relacionales con{" "}
+              Los principales frameworks que utilizo son
+              <span className="text-teal-500">NextJS, ASP.NET y Laravel.</span>
+            </p>
+            <p className="text-md py-5 leading-8 text-gray-800">
+              Manejo bases de datos relacionales con
               <span className="text-teal-500">SQL, Sequelize, PrismaDB</span> y
-              no relacionales usando{" "}
-              <span className="text-teal-500">MongoDB.</span>{" "}
+              no relacionales usando
+              <span className="text-teal-500">MongoDB.</span>
             </p>
           </div>
           <div className="justify-center gap-10 lg:flex">
