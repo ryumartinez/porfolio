@@ -49,8 +49,8 @@ const Home: NextPage = () => {
               creativo. Programando descubrí el medio perfecto para reflejar
               ambas. Mi tercera gran pasión es enseñar,así que me gustaría
               formar parte de una empresa en donde pueda crecer como
-              desarrollador y ayudar a los demás a crecer compartiendo lo que
-              aprendí.
+              desarrollador y ayudar a los demás compartiendo lo que
+              voy aprendiendo.
             </p>
           </div>
           <div className="flex justify-center gap-16 py-3 text-5xl text-gray-600">
