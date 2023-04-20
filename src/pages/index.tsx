@@ -79,18 +79,18 @@ const Home: NextPage = () => {
 
             <p className="text-md py-5 leading-8 text-gray-800">
               Tengo conocimientos de
-              <span className="text-teal-500">Javascript, CSS, HTML, PHP y C#</span>. Herramientas 
+              <span className="text-teal-500"> Javascript, CSS, HTML, PHP y C#</span>. Herramientas 
               con las cuales armo aplicaciones web frontend, backend y fullstack. 
             </p>
             <p className="text-md py-5 leading-8 text-gray-800">
               Los principales frameworks que utilizo son
-              <span className="text-teal-500">NextJS, ASP.NET y Laravel.</span>
+              <span className="text-teal-500"> NextJS, ASP.NET y Laravel.</span>
             </p>
             <p className="text-md py-5 leading-8 text-gray-800">
               Manejo bases de datos relacionales con
-              <span className="text-teal-500">SQL, Sequelize, PrismaDB</span> y
+              <span className="text-teal-500"> SQL, Sequelize, PrismaDB</span> y
               no relacionales usando
-              <span className="text-teal-500">MongoDB.</span>
+              <span className="text-teal-500"> MongoDB.</span>
             </p>
           </div>
           <div className="justify-center gap-10 lg:flex">
@@ -125,8 +125,8 @@ const Home: NextPage = () => {
               <p className="py-2">APIs seguras y escalables</p>
               <h4 className="py-4 text-teal-600">Herramientas que uso</h4>
               <p className="text-gray-800"> NodeJS</p>
-              <p className="text-gray-800"> Sequelize</p>
-              <p className="text-gray-800"> PostgresSQL</p>
+              <p className="text-gray-800"> ASP.NET</p>
+              <p className="text-gray-800"> Laravel</p>
             </div>
           </div>
         </section>
